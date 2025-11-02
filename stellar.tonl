@@ -1,0 +1,5 @@
+VERSION = "0.1.0"
+NETWORK_PASSPHRASE = "test SDF Network ; Setember 2015"
+ACCOUNTS = [
+    " REPLACE"
+]
